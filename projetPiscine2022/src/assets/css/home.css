@@ -1,0 +1,60 @@
+.homeContainer{
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    position: relative;
+}
+
+.corp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
+
+.sousTitre{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17;
+}
+
+
+.splitContainer{
+    display: flex;
+}
+
+.imageContainer{
+    position:relative;
+    width:50%;
+    
+}
+
+
+
+.image{
+    height:220px !important;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.texte{
+    position:relative;
+    width: 50%;
+}
+
+.titre{
+    font-family: Arial, Helvetica, sans-serif;
+    color:grey;
+}
+
+
+.evenementContainer{
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    position: relative;
+}

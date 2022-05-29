@@ -1,0 +1,15 @@
+.containerBlank{
+    width: 65%;
+    height:250px;
+    margin: auto;
+    justify-content: center;
+  
+}
+
+.containerText{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}

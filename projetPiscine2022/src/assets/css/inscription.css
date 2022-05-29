@@ -1,0 +1,16 @@
+
+.inscriptionContainer{
+    text-align: center;
+    justify-content: center;
+    margin:auto;
+    border-radius: 15px;
+    width: 65%;
+    height: 550px;
+    background-color: whitesmoke;
+}
+
+.tableForm{
+    justify-content: center;
+    margin:auto;
+    margin-bottom: 150px;
+}
